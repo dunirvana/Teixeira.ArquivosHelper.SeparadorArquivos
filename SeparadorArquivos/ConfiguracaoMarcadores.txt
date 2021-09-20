@@ -1,0 +1,8 @@
+﻿## Esse é um arquivo de exemplo para a configuração dos marcadores.
+## Linhas iniciando com o valor '##' são ignoradas do processamento.
+## O conteúdo deve ser separado por ';'.
+## O primeiro elemento é o marcador no arquivo sendo separado, ou seja, a partir de onde um novo arquivo deve ser gerado.
+## O segundo elemento é o nome do nov oarquivo a ser gerado.
+##
+CPF;NOTAS_FISCAIS.rpt
+NUMERO;ITENS_NOTAS_FISCAIS.rpt
